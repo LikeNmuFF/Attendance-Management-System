@@ -21,9 +21,6 @@ It provides:
 ## 🏗 System Architecture
 The application follows a **modular architecture**:
 
-# Attendance Management System  
-
-## System Architecture  
 
 ```text
 ┌─────────────────┐
@@ -50,7 +47,7 @@ The application follows a **modular architecture**:
 ┌─────────────────┐
 │  MySQL Database │
 └─────────────────┘
-
+```
 ---
 
 # ✨ Key Features
@@ -109,7 +106,7 @@ The application follows a **modular architecture**:
 
 ### 🔧 Prerequisites
 - Install **Java JDK 8+**  
-- Install **MySQL Xampp**  
-- Install an IDE: IntelliJ IDEA / Eclipse / NetBeans  
+- Install **MySQL XAMPP**  
+- Install an IDE: IntelliJ IDEA / Eclipse / NetBeans 
 
-### Justin Barutag
+<div align="center"> <img src="https://github.com/LikeNmuFF/muffy/blob/main/muffy.png" alt="Muffy Logo" /> <br> <em>Attendance Management System </em> </div>
